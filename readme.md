@@ -63,3 +63,6 @@ As figure 1 shows, the original algorithm remains faster for the very easy to me
 An improvement would be to more accurately chose which of the two algorithms is better as a function of the number of empty cells rather than arbitrarily set it to when there is more than 20 empty cells. However to do this, a greater data set of example sudokus is needed with more variation between medium and hard sudokus.
 
 #### References
+- Knuth D. (2000) 'Dancing Links' \[online\]. Millenial Perspectives in Computer Science. pgs 187--214. Available from: https://arxiv.org/pdf/cs/0011047.pdf
+- GeeksforGeeks. (2017). Exact Cover Problem and Algorithm X | Set 2 (Implementation with DLX). [online] Available at: https://www.geeksforgeeks.org/exact-cover-problem-algorithm-x-set-2-implementation-dlx/ [Accessed 15 Mar. 2021].
+- Saurel, S. (2019). Building A Sudoku Solver In Java With Dancing Links. [online] Medium. Available at: https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1.
